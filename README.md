@@ -21,7 +21,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/x5mJG2F7ht' title='Tip Calculator Walkthrough' width='' alt='Tip Calculator Walkthrough' />
+<img src='http://g.recordit.co/x5mJG2F7ht.gif' title='Tip Calculator Walkthrough' width='' alt='Tip Calculator Walkthrough' />
 
 GIF created with [Recordit](http://www.recordit.co).
 
